@@ -9,6 +9,8 @@ A ideia é desenvolver uma aplicação que permita o gerenciamento de alugueis d
 
 O desenvolvimento da aplicação se sustenta com base nos princípios da arquitetura limpa e do SOLID. Isso foi algo bastante abordados duantes às aulas é possivel ver sua presença na construção de casos de uso, entidades, e a aplicação do padrão de repositório.
 
+![modelo](https://xesque.rocketseat.dev/1571029149847-attachment.png)
+
 # Requisitos da Aplicação
 
 ## Cadastro de Carro
