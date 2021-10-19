@@ -1,4 +1,4 @@
-import { Router } from 'express';
+import { response, Router } from 'express';
 import { v4 as uuidv4 } from 'uuid';
 import { CategoriesRepository } from "../repositories/CategoriesRepository";
 
@@ -15,5 +15,9 @@ categoriesRoutes.post("/", (request, response) => {
     return response.status(201).send();
 });
 
+categoriesRoutes.get("/", (request, response) =>{
+    const listCategories = categoriesRepository.list();
+    return response.status(200).json(listCategories);
+});
 
 export { categoriesRoutes };
