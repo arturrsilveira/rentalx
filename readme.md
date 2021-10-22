@@ -166,7 +166,7 @@ $ yarn dev
 
 
 ## 📝 Licença
-Este projeto esta sobe a licença [MIT](./LICENSE).<br>
+Este projeto esta sobe a licença [MIT].<br>
 Feito com ❤️ por Artur Rafael da Silveira
 [Entre em contato!](https://www.linkedin.com/in/arturrsilveira/) 👋🏽 
 
